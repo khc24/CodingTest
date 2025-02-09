@@ -565,7 +565,7 @@ int  ex13(vector<vector<int>> board, vector<int> moves) {
 
 
 // 문제 14 표 편집*****
-// 링크: 
+// 링크: https://school.programmers.co.kr/learn/courses/30/lessons/81303
 
 // 직접 풀이 1차
 string ex14_01(int n, int k, vector<string> cmd) {
